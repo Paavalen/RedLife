@@ -63,7 +63,7 @@
       "#000000"
       ],
       "HEADER_PRIMARY": [
-      "#BA0100"
+      "#FFFFFF"
       ],
       "HEADER_SECONDARY": [
       "#c7c7c7"
@@ -92,6 +92,7 @@
       "TEXT_DANGER": [
       "#BA0100"
       ],
+      
       "TEXT_LINK": [
       "#BA0100"
       ],
@@ -174,7 +175,7 @@
       "YELLOW_200": "#BA0100",
       "YELLOW_230": "#BA0100",
       "YELLOW_260": "#BA0100",
-      "YELLOW_300": "#BA01004d",
+      "YELLOW_300": "#BA0100",
       "YELLOW_330": "#BA0100",
       "YELLOW_345": "#BA0100",
       "YELLOW_360": "#BA0100",
