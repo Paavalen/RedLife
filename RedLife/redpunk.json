@@ -57,7 +57,7 @@
       "#BA0100"
       ],
       "CHANNELS_DEFAULT": [
-      "#72eaf8"
+      "#BA0100"
       ],
       "CHAT_BACKGROUND": [
       "#000000"
@@ -141,9 +141,6 @@
       "GREEN_830": "#BA0100",
       "GREEN_860": "#BA0100",
       "GREEN_900": "#BA0100",
-      "GUILD_BOOSTING_PINK": "#BA0100",   
-      "GUILD_BOOSTING_PURPLE": "#BA0100",
-      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#BA0100",
       "PRIMARY_100": "#610017",
       "PRIMARY_230": "#BA0100",
       "PRIMARY_300": "#72eaf8",
