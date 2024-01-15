@@ -66,13 +66,13 @@
       "#BA0100"
       ],
       "HEADER_SECONDARY": [
-      "#BA0100"
+      "#c7c7c7"
       ],
       "HOME_BACKGROUND": [
       "#000000"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#BA0100"
+      "#FFFFFF"
       ],
       "INTERACTIVE_HOVER": [
       "#BA0100"
@@ -81,7 +81,7 @@
       "#6e6a86"
       ],
       "INTERACTIVE_NORMAL": [
-      "#6e6a86"
+      "#BA0100"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#000000"
