@@ -177,7 +177,7 @@
       "YELLOW_200": "#BA0100",
       "YELLOW_230": "#BA0100",
       "YELLOW_260": "#BA0100",
-      "YELLOW_300": "#BA01004d",
+      "YELLOW_300": "#BA0100",
       "YELLOW_330": "#BA0100",
       "YELLOW_345": "#BA0100",
       "YELLOW_360": "#BA0100",
@@ -208,10 +208,6 @@
         "PLUM_22": "#000000",
         "PLUM_23": "#170005"
    },
-        "background": {
-        "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/olobia/themes/main/image%20(2).png",
-        "alpha": 1.0
-    },
+
     "spec": 2
 }
