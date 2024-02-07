@@ -57,25 +57,25 @@
       "#BA0100"
       ],
       "CHANNELS_DEFAULT": [
-      "#72eaf8"
+      "#BA0100"
       ],
       "CHAT_BACKGROUND": [
       "#000000"
       ],
       "HEADER_PRIMARY": [
-      "#72eaf8"
+      "#BA0100"
       ],
       "HEADER_SECONDARY": [
-      "#72eaf8"
+      "#BA0100"
       ],
       "HOME_BACKGROUND": [
       "#170005"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#f3e600"
+      "#BA0100"
       ],
       "INTERACTIVE_HOVER": [
-      "#72eaf8"
+      "#FF0000"
       ],
       "INTERACTIVE_MUTED": [
       "#6e6a86"
@@ -90,10 +90,10 @@
       "#120707"
       ],
       "TEXT_DANGER": [
-      "#ff003c"
+      "#BA0100"
       ],
       "TEXT_LINK": [
-      "#f3e600"
+      "#BA0100"
       ],
       "TEXT_MUTED": [
       "#BA0100"
