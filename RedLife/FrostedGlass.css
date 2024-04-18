@@ -584,7 +584,7 @@ textarea {
   background: var(--foreground);
 }
 #app-mount .containerDefault_ae2ea4 .wrapper-1ucjTd:hover .link_ddbb36 {
-  background: var(--foreground);
+ background: var(--background-modifier-hover);
 }
 #app-mount .containerDefault_ae2ea4 .wrapper-1ucjTd:hover .link_ddbb36 .icon__67ab4 {
   color: var(--interactive-hover);
