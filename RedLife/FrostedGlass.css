@@ -583,8 +583,10 @@ textarea {
 #app-mount .containerDefault_ae2ea4 .modeUnreadImportant__35358 .link_ddbb36 {
   background: var(--foreground);
 }
-
-#app-mount .containerDefault_ae2ea4 .wrapper-1ucjTd:hover .icon__67ab4 {
+#app-mount .containerDefault_ae2ea4 .wrapper-1ucjTd:hover .link_ddbb36 {
+  background: var(--background-modifier-hover);
+}
+#app-mount .containerDefault_ae2ea4 .wrapper-1ucjTd:hover .link_ddbb36 .icon__67ab4 {
   color: var(--interactive-hover);
 }
 #app-mount .containerDefault_ae2ea4.selected__11b62 .link_ddbb36 {
