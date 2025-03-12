@@ -247,7 +247,8 @@ textarea {
 #app-mount .picker__09f65,
 #app-mount .container-3a5mk-,
 #app-mount .popout__86331,
-#app-mount .popout__3f413 {
+#app-mount .popout__3f413,
+#app-mount .streamPreview__6da2d {
   overflow: hidden !important;
   position: relative;
   border-radius: 3px;
@@ -277,7 +278,8 @@ textarea {
 #app-mount .picker__09f65::before,
 #app-mount .container-3a5mk-::before,
 #app-mount .popout__86331::before,
-#app-mount .popout__3f413::before {
+#app-mount .popout__3f413::before,
+#app-mount .streamPreview__6da2d::before {
   content: "";
   background: linear-gradient(var(--tint), var(--tint)), var(--fb-overlay-image);
   background-position: var(--fb-overlay-position, center);
@@ -564,13 +566,13 @@ textarea {
 }
 
 #app-mount .guilds_c48ade {
-  background-color: rgb(0, 0, 0, var(--serverlist-brightness));
+  background-color: transparent;
 }
 #app-mount .guilds_c48ade .footer__214dc {
-  background-color: transparent;
+  background-color: rgb(0, 0, 0, var(--serverlist-brightness));
 }
 #app-mount .guilds_c48ade .scrollerBase_d125d2 {
-  background-color: transparent;
+  background-color: rgb(0, 0, 0, var(--serverlist-brightness));
 }
 #app-mount .guilds_c48ade .scrollerBase_d125d2::-webkit-scrollbar {
   display: none;
@@ -877,6 +879,9 @@ textarea {
 
 #app-mount .member__5d473 {
   background: transparent;
+}
+#app-mount .member__5d473.selected__91a9d .childContainer__91a9d {
+  background: var(--gradient);
 }
 #app-mount .member__5d473.selected__91a9d .layout__91a9d {
   background: var(--gradient);
